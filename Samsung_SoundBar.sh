@@ -170,7 +170,7 @@ FUNCTION_ShowStatus() {
 
 usage() {
 
-echo "Usage:		"${0##*/}"-n [ip] -a -s -w -m -u -h -l -g -i [ hdmi1 | hdmi2 | arc | wifi | bt ] -v [volume]
+echo "Usage:		"${0##*/}" -n [ip] -a -s -w -m -u -h -l -g -i [ hdmi1 | hdmi2 | arc | wifi | bt ] -v [volume]
 	
 OPTIONS:
    -n   IP address of soundbar 
