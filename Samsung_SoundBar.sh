@@ -3,7 +3,7 @@
 #
 # Name:
 # -----
-# Samsung_SoundBar .sh
+# Samsung_SoundBar.sh
 #
 # Purpose:
 # --------
