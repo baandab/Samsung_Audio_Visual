@@ -6,7 +6,7 @@ Use Samsung_SoundBar.sh to control your HW-Q900A Soundbar:
 
 Usage:		
 ------
-Samsung_SoundBar.sh-n [ip] -a -s -w -m -u -h -l -g -i [ hdmi1 | hdmi2 | arc | wifi | bt ] -v [volume]
+Samsung_SoundBar.sh -n [ip] -a -s -w -m -u -h -l -g -i [ hdmi1 | hdmi2 | arc | wifi | bt ] -v [volume]
 </br>
 </br>OPTIONS:
 </br>   -n   IP address of soundbar
